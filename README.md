@@ -4,7 +4,7 @@ The PyCity Schools analysis was originally completed to get a complete picture o
 ## Results of Analysis
 The results of the analysis revealed that omitting the ninth-graders of Thomas High School affected several different measurements in minor ways. Overall, it can be seen in the charts that omitting ninth graders from Thomas High School lowered their overall test results dropping their overall passing percentage by roughly 0.3%. However, this was not enough to impact their overall rating among other schools in the school district. The results of these analysis can be seen in the following sections. 
 ### District Summary Changes
-Due to the omisssion of roughly 400 students (9th Graders @ Thomas High) the overall scores of the district were seen to decline across every measurable category. The charts can be seen in both the Challenge code and the Original code with the list below explaining what exactly changed. 
+Due to the omisssion of roughly 400 students (9th Graders @ Thomas High) the overall scores of the district were seen to decline across every measurable category. The charts can be seen in both the Challenge code and the Original code with the list below explaining what exactly changed. The Challenge code omits the scores by 9th Graders at Thomas High while the Original code includes those scores. 
 - Average math score decreased from 78.99 to 78.93.
 - Average reading score decreased from 81.88 to 81.66.
 - Passing math percentage decreased from 74.98% to 74.76%.
