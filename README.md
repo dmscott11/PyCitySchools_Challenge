@@ -11,10 +11,15 @@ Due to the omisssion of roughly 400 students (9th Graders @ Thomas High) the ove
 - Passing reading percentage decreased from 85.81% to 85.66%.
 - Overall passing percentage decreased from 65.17% to 64.86%.
 ### School Summary Changes
+Similarly to the District Summary, the changes in data occur from the grading and percentage measurements and in no other categories. There is no change in budget and money spent per student as it is the ninth-graders scores that are erased and not the ninth-graders as a whole. Therefore the student population does not change. 
 ### Thomas High School Relative Changes
+Thomas High School did not drop any rankings by omitting the testing scores of ninth-graders. While their overall passing percentage did decrease, it was not enough to drop them from second overall to third. The percentage decrease was as follows:
+- Original Overall Passing %: 90.95%
+- New Overall Passing %: 90.63%
 ### Additional Charts
 #### Math and Reading by Grade
 #### Scores by School Spending
 #### Scores by School Size
 #### Scores by School Type
 ## Summation
+In summation, it can be seen that the omitting of Thomas High Schools ninth-graders did decrease their overall scores, but it is difficult to tell whether this is from academic dishonesty. In order to more thoroughly understand whether academic dishonesty occurred, we would need to analyze all ninth-graders within the school district and come up with a ruling. 
